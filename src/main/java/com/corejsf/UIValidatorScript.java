@@ -89,7 +89,7 @@ public class UIValidatorScript extends UIComponentBase {
 
 	@Override
 	public String getFamily() {
-		return null;
+		return "javax.faces.Output";
 	}
 
 	@Override
